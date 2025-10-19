@@ -42,8 +42,8 @@ O Power BI consome os dados transformados e apresenta:
 ![Dashboard Power BI](powerbi/dashboard_export.png)
 
 ---
-Implementar futuramente:
-## 🧩 Resumo Automático
+
+## 🧩 Adicionar futuramento ao Pentaho: Resumo Automático
 
 Para o Pentaho também gerar um arquivo resumo_final.csv com a contagem de:
 - Filmes extraídos
@@ -51,7 +51,17 @@ Para o Pentaho também gerar um arquivo resumo_final.csv com a contagem de:
 - Filmes excluídos  
 
 ---
+## 💻 Trabalhos futuros:
 
+- Expandir para múltiplos endpoints (gêneros, trending, atores);
+
+- Implementar predições de popularidade com Machine Learning;
+
+- Migrar o armazenamento para um banco de dados em nuvem;
+
+- Deixar o dashboard em Power BI mais interativo.
+
+---
 ## 👩‍💻 Autor(a)
 **Ana Paula Canuto da Silva**  
 Curso: Licenciatura em Engenharia de Sistemas Informáticos  
