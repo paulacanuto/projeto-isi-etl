@@ -39,7 +39,7 @@ O Power BI consome os dados transformados e apresenta:
 - Gráfico de barras: **Popularidade por Filme**  
 - Gráfico de pizza: **Distribuição percentual de popularidade**
 
-![Dashboard Power BI](powerbi/dashboard_export.png)
+![Dashboard Power BI](https://github.com/paulacanuto/projeto-isi-etl/blob/main/Trabalho/PowerBI/dashboard_export.png)
 
 ---
 
